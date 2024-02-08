@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-class node
-{
+class node   /*This is comment add by Gaurav sati */
+{          
 	public:
 		int data;
 		node* next;
